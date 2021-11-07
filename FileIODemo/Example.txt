@@ -1,0 +1,3 @@
+﻿﻿Welcome to File I/O
+Reading lines from text file
+Hellow World - .Net is awesome
